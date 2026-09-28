@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.brag-tmp/
+brag-output/
+*-composition/
+*.mp4
+*.jpg
+node_modules/
